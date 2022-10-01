@@ -11,3 +11,12 @@ body {
     font-family: ubuntu,sans-serif;
     font-weight: 300;
 }
+
+/* navigation links */
+ 
+#navbar li {
+    margin-right: 25px;
+    list-style-type: none;
+    float: right;
+}
+
