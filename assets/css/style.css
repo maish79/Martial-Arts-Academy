@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    color: rgb(70, 46, 15);
 }
 
 
@@ -19,9 +20,13 @@ body {
     margin-right: 25px;
     list-style-type: none;
     float: right;
+    font-size: 100%;
 }
+   
 
 a:hover {
+
+
     background-color: white;
 }
 
@@ -29,8 +34,26 @@ a:hover {
 
 
 #group-pic {
-    height: 800px;
+    height: 900px;
     width: 100%;
     background: url("../images/group-martial-arts.jpg")no-repeat center center;
 
+}
+h1{
+    
+    font-size: 50px;
+    float:left;
+}
+/*li and ul*/
+
+ul{
+    font-size: 100%;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    padding-top: 20px;
+    background-color: burlywood;
+    
+}
+li, ul{
+    text-align: center;
 }
