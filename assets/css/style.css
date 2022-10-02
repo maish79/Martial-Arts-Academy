@@ -10,7 +10,7 @@
 body {
     font-family: ubuntu,sans-serif;
     font-weight: 300;
-    background-color: grey;
+    background-color:  burlywood;
 }
 
 /* navigation links */
@@ -23,4 +23,14 @@ body {
 
 a:hover {
     background-color: white;
+}
+
+/* group-picture*/
+
+
+#group-pic {
+    height: 800px;
+    width: 100%;
+    background: url("../images/group-martial-arts.jpg")no-repeat center center;
+
 }
