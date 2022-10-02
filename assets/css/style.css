@@ -11,13 +11,21 @@
 body {
     font-family: ubuntu,sans-serif;
     font-weight: 300;
-    background-color:  burlywood;
+    background-color: burlywood;
     
+}
+#body-text {
+    background-color: rgb(153, 132, 106);
 }
 h1{
     
     font-size: 50px;
     float: left;
+}
+h2 {
+     font-weight: bold;
+     text-align: center;
+     margin-top: 20px;
 }
 
 /* navigation links */
@@ -51,13 +59,13 @@ a:hover {
     height: 500px;
     width: 50%;
     background: url("../images/kids.jpg")no-repeat center center;
-    float: left;
+    
 }
 #adult2-pic{
     height: 500px;
     width: 50%;
     background: url("../images/adult2.jpg")no-repeat center center;
-    float: right;
+    
     
 }
 
@@ -76,3 +84,9 @@ li, ul{
     padding-top: 10px;
 }
 
+.time {
+     padding-top: 100px;
+     margin-left: 1000px;
+    font-size: large;
+    font-weight: lighter;
+}
