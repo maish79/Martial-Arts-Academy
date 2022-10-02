@@ -10,6 +10,7 @@
 body {
     font-family: ubuntu,sans-serif;
     font-weight: 300;
+    background-color: grey;
 }
 
 /* navigation links */
@@ -20,3 +21,6 @@ body {
     float: right;
 }
 
+a:hover {
+    background-color: white;
+}
