@@ -114,3 +114,85 @@ li, ul{
     border: 1px solid rgb(167, 104, 23);
     
   }
+  /* price list */
+  .columns {
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+  }
+  
+  .price {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    
+    
+  }
+  
+  .price:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+  }
+  
+  .price .header {
+    background-color: #111;
+    color: white;
+    font-size: 25px;
+  }
+  
+  .price li {
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .price .grey {
+    background-color: #eee;
+    font-size: 20px;
+  }
+  
+  /* sign-up box */
+
+  
+   .sign-up {
+    height: 600px;
+     margin: auto;
+     border-radius: 2px;
+     padding-top: 10px;
+     width: 600px;
+     float: right;
+     
+   }
+
+   .log-in {
+    width: 360px;
+    height: 280px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white ;
+   }
+   div h2 {
+    text-align: center;
+    padding-top: 3px;
+   }
+   form label{
+    
+    margin-top: 30px;
+    font-size: 18px;
+   }
+   form input{
+    width: 100%;
+    outline: none;
+    border: 7px;
+    border-radius: 6px;
+    outline:none;
+    padding: 7px;
+    border: 1px solid grey;
+ }
+ input[type="button"]{
+  margin-top: 18px;
+  border:none;
+  background-color: rgb(74, 226, 74);
+  color: white;
+  font-size: 25px;
+ }
