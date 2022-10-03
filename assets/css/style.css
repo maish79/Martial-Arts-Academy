@@ -69,6 +69,15 @@ a:hover {
     
 }
 
+#testimonials p img {
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 10px;
+}
+
 /*li and ul*/
 
 ul{
@@ -83,6 +92,7 @@ li, ul{
     text-align: center;
     padding-top: 10px;
 }
+/* kids-pic, adult-pic texts */
 
 .text {
     float: right;
@@ -90,3 +100,17 @@ li, ul{
     font-size: large;
    text-transform: uppercase;
 }
+
+  /*testimonials*/
+
+  #testimonials {
+      display: grid;
+      grid-template-columns: auto auto auto;
+      
+  }
+  
+  #testimonials  p {
+    padding: 5px;
+    border: 1px solid rgb(167, 104, 23);
+    
+  }
