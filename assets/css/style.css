@@ -84,9 +84,9 @@ li, ul{
     padding-top: 10px;
 }
 
-.time {
-     padding-top: 100px;
-     margin-left: 1000px;
+.text {
+    float: right;
+    margin: 150px auto;
     font-size: large;
-    font-weight: lighter;
+   text-transform: uppercase;
 }
