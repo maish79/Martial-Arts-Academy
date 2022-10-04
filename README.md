@@ -16,4 +16,8 @@
 * We have the Home, Classes, Testimonial, Pricing and Social media links.
 * At the Header we can see the Adult and the kids class traing together.
 
+# Main Page
+## Advantages of training with us.
+* I explained below the main benefits of training with us.
 
+<img src="assets/images/benefits.png">
