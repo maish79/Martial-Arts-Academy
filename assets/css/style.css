@@ -235,19 +235,9 @@ li, ul{
 /* media queries */
 
 /* for screen size 1630px wide and less */
-@media screen and (max-width: 1650px){
-  
-  #kids-pic {
 
-}
-  }
   
 
-#adult2-pic {
- 
 
-}
 /* for screen sizes 1100px and less */
-#navbar {
-  
-}
+
