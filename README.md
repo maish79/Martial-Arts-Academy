@@ -1,4 +1,4 @@
  # Martial Arts Academy
 
- Welcome!
-<img src="images/Martial-Arts-Academy.PNG" width= "100>
+ 
+<img src="assets/images/martial-arts-academy.png">
