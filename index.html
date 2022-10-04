@@ -10,7 +10,7 @@
     <title>Martial Arts Academy</title>
 </head>
 <body>
-    
+    <!--Navigation-->
     <header>
         <a href="index.html">
           <h1>Martial Arts Academy</h1>
@@ -18,17 +18,17 @@
         <nav>
             <ul id="navbar">
                 <li>
-                    <a href="#">Social media</a>
+                    <a href="#social-media">Social media</a>
                 </li>
                 
                 <li>
-                    <a href="#">Pricing</a>
+                    <a href="#columns">Pricing</a>
                 </li>
                 <li>
-                    <a href="#">Testimonials</a>
+                    <a href="#testimonials">Testimonials</a>
                 </li>
                 <li>
-                   <a href="classes">Classes</a>
+                   <a href="#kids-pic">Classes</a>
                 </li>
                 <li>
                     <a href="index.html">Home</a>
@@ -38,6 +38,7 @@
         </nav>
     </header>
     <section>
+        <!--Main-->
     <div id="group-pic"></div>
         
         
@@ -55,9 +56,10 @@
           
         </div>
     </section>
+          <!--Classes-->
 
     <section>
-        <h2>kids Classes</h2>
+        <h2>kids Classes </h2>
           <ul>
             <li>"A Black Belt is a white belt that never quit".</li>
           </ul>
@@ -88,7 +90,7 @@
          </div>
          </div>
         </div>
-       
+       <!--Testimonials-->
     <section>
          <div id="testimonials">
             
@@ -105,9 +107,10 @@
             </p>
          </div>
         
-    </section>
+    </section> 
+    <!--Pricing-->
     <section>
-        <div class="columns">
+        <div class="columns" id="columns">
             <ul class="price">
               <li class="header">Kids</li>
               <li class="grey">$ 40 / month</li>
@@ -119,7 +122,7 @@
             </ul>
           </div>
           
-          <div class="columns">
+          <div class="columns" id="columns">
             <ul class="price">
               <li class="header" style="background-color:#04AA6D">Adults</li>
               <li class="grey">$ 40 / month</li>
@@ -133,28 +136,36 @@
           <div class="sign-up">
             <h2>Sign up</h2>
             
-            <form>
-                <label >First Name</label>
-                <input type="text" placeholder="">
-                <label>Last Name</label>
-                <input type="text" placeholder="">
-                <label>Email</label>
-                <input type="email" placeholder="">
-                <label>password</label>
-                <input type="password" placeholder="">
-                <label>Confirm Password</label>
-                <input type="password" placeholder="">
-                <input type="button" value="submit">
-                <p>Already have an Account?<a href="log-in.html">log in here</a></p>
+            <form class="sign-up form" method="POST">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" class="text-input" name="first_name" required/>
+                <label for="lname">Last Name</label>
+                <input type="text" class="text-input" name="last_name" required/>
+                <label for="email">Email</label>
+                <input type="email" class="text-input" name="email_address" required/>
+                <input type="submit"nvalue="login" class="join-button">
+                
 
             </form>
           </div>
 
      
     </section>
-   
+    <!--Addess-->
+    <section>
+        <div class="center">
+            <p>
+            contact address<br>Martial arts academy <br>06221 heidelberg <br>Germany
+            </p>
+        </div>
+    </section>
+
+   <!--Social media-->
     <footer>
-        <ul class="social-networks">
+         
+           
+        
+        <ul class="social-networks" id="social-media">
             <li>
               <a href="http://facebook.com" target="_blank" rel="noopener" 
                 aria-label="visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
