@@ -21,3 +21,15 @@
 * I explained below the main benefits of training with us.
 
 <img src="assets/images/benefits.png">
+
+# Classes
+## The classes time table for kids 
+
+<img src="assets/images/kids.png">
+
+## The classes  time table for adults
+
+<img src="assets/images/adult.png">
+
+
+
