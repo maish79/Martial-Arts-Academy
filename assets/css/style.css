@@ -231,3 +231,29 @@ li, ul{
   
 
 }
+/* media queries */
+
+/* for screen size 1630px wide and less */
+@media screen and (max-width: 1650px){
+  
+  #kids-pic {
+    clear: left;
+    float: left;
+  }
+  
+
+#adult2-pic {
+  width: 65%;
+  height: 1200px;
+  margin: 0 auto;
+}
+
+}
+/* for screen sizes 1100px and less */
+#navbar {
+  clear: left;
+  float: left;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  line-height: 25px;
+}
