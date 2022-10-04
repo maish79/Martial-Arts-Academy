@@ -153,11 +153,12 @@ li, ul{
   
    .sign-up {
     height: 600px;
-     margin: auto;
-     border-radius: 2px;
+     margin-left: 20px;
+     border-radius: 4px;
      padding-top: 10px;
-     width: 600px;
+     width: 500px;
      float: right;
+     
      
    }
 
@@ -237,23 +238,16 @@ li, ul{
 @media screen and (max-width: 1650px){
   
   #kids-pic {
-    clear: left;
-    float: left;
+
+}
   }
   
 
 #adult2-pic {
-  width: 65%;
-  height: 1200px;
-  margin: 0 auto;
-}
+ 
 
 }
 /* for screen sizes 1100px and less */
 #navbar {
-  clear: left;
-  float: left;
-  margin-left: 30px;
-  margin-bottom: 20px;
-  line-height: 25px;
+  
 }
