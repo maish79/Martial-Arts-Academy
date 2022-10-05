@@ -16,6 +16,7 @@ body {
 }
 #body-text {
     background-color: rgb(153, 132, 106);
+    text-align: center;
 }
 h1{
     
@@ -26,6 +27,13 @@ h2 {
      font-weight: bold;
      text-align: center;
      margin-top: 20px;
+}
+#kids-classes {
+  text-align: center;
+}
+
+#adult-classes {
+  text-align: center;
 }
 
 /* navigation links */
