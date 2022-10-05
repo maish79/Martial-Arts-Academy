@@ -43,3 +43,15 @@
 * Our pricing also shows us the costs associated with the two groups
 
 <img src="assets/images/pricing.png">
+
+# Sign-up
+* The sign-up has a form to collect details of the adults and kids
+* The sign-up also has a form validation
+
+<img src="assets/images/signup.png">
+
+# Testing
+* I tested the page works in different browsers 
+* The header, navigation, main page, classes, testimonials, pricing, sign-up and contact are legible and easy to understand
+
+# Validator testing
