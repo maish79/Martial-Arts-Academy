@@ -63,3 +63,17 @@
 ## Accessibility score
 
  <img src="assets/images/acccesibility.png">
+
+ # Deployment 
+ ## THis sit was deployed to github pages
+ * From Github repository,navigate to the settings tab
+ * From the source dropdown,select main branch
+ * From main branch the page will provide the complete website
+
+ # Credits
+ ## Content
+ * Code institue LoveRunnning project and coding club project
+ * Google
+
+ # Media 
+ * The image was taken from Google.
