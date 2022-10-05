@@ -38,3 +38,8 @@
 
 <img src="assets/images/testimonials.png">
 
+# Pricing
+* Our pricing list show the various packages we have for the kids and adults
+* Our pricing also shows us the costs associated with the two groups
+
+<img src="assets/images/pricing.png">
