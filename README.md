@@ -55,3 +55,11 @@
 * The header, navigation, main page, classes, testimonials, pricing, sign-up and contact are legible and easy to understand
 
 # Validator testing
+
+## HTML 
+* Some errors were returned when passing through W3C HTML validator
+## CSS
+* No errors were found in the W3C CSS validator
+## Accessibility score
+
+ <img src="assets/images/acccesibility.png">
